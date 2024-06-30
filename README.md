@@ -11,8 +11,6 @@ The LockstakeEngine is the main contract in the set of contracts that implement 
 
 When withdrawing back the MKR the user has to pay an exit fee.
 
-There is also support for locking and freeing NGT instead of MKR.
-
 **System Attributes:**
 
 * A single user address can open multiple positions (each denoted as `urn`).
